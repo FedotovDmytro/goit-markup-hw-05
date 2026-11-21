@@ -123,7 +123,7 @@
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
 
@@ -137,11 +137,6 @@
 
 .footer-input::placeholder {
   color: #fff;
-}
-
-.footer-input:hover,
-.footer-input:focus {
-  border-radius: #31d0aa;
 }
 
 .footer-button {
@@ -162,12 +157,12 @@
 
 .footer-button:hover,
 .footer-button:focus {
-  background: #31d0aa;
+  background-color: #31d0aa;
 }
 
 .footer-input:hover,
 .footer-input:focus {
-  border: 1px solid #31d0aa;
+  border-color: #31d0aa;
   border-radius: 4px;
   padding: 8px 16px;
   width: 264px;

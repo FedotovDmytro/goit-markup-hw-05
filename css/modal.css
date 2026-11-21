@@ -31,7 +31,7 @@
 .modal {
   position: relative;
   border-radius: 4px;
-  padding: 20px;
+  padding: 24px;
 
   width: 400px;
   height: 566px;
@@ -91,7 +91,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .modal-label,
@@ -101,9 +101,9 @@
 
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 1.16667;
-  letter-spacing: 0.04em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #8e8f99;
 }
 
@@ -115,10 +115,10 @@
 .modal-input {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  color: #2e2f42;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 
   display: block;
 
@@ -176,9 +176,9 @@
 
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -257,15 +257,15 @@
 .modal-txt {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #8e8f99;
 }
 
 .modal-pp {
-  font-size: 12px;
-  line-height: 1.17;
+  font-size: 16px;
+  line-height: 1.5;
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
@@ -298,7 +298,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
   color: #fff;
 
   cursor: pointer;
